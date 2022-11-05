@@ -1,4 +1,7 @@
-This is SimpleCalculator.
-The name says it all.
+**SimpleCalculator**
 
-Only use + - * / as symbols and leave a space between the number and the symbol
+*The name says it all*
+
+Only use + - * / as symbols.
+
+Leave a space between the number and the symbol.
